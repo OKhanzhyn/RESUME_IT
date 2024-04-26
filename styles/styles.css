@@ -93,6 +93,12 @@ body {
     margin-left: 10px;
 }
 
+.project-link:hover {
+    color: #0a0ac9;
+    font-weight: 600;
+    font-size: 14px;
+}
+
 .project-bracket {
         font-style: normal;
         font-weight: 700;
@@ -229,7 +235,11 @@ body {
     line-height: 24px;
     color: #5f81b3;
 }
-
+.contact-link:hover {
+    font-weight: 600;
+    font-size: 16px;
+    color: #7e94b5;
+}
 
 
 .tech-skills {
